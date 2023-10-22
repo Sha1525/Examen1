@@ -1,0 +1,7 @@
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\bin\Debug\IExamenPrograC.exe.config
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\bin\Debug\IExamenPrograC.exe
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\bin\Debug\IExamenPrograC.pdb
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\obj\Debug\IExamenPrograC.csproj.AssemblyReference.cache
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\obj\Debug\IExamenPrograC.csproj.CoreCompileInputs.cache
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\obj\Debug\IExamenPrograC.exe
+C:\Users\Ian Soto\source\repos\IExamenPrograC\IExamenPrograC\obj\Debug\IExamenPrograC.pdb
